@@ -32,7 +32,7 @@ RUNDIR=$(dirname $0)
 SCRIPTDIR="$RUNDIR/install"
 
 # the canonical source of all installers
-GITREPO="https://raw.github.com/theorangedit/open-source-reddit/master/install"
+GITREPO="https://raw.github.com/subsapp/subist/main/install"
 NEEDED=(
     "done.sh"
     "install_apt.sh"
