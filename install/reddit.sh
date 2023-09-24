@@ -164,7 +164,7 @@ function clone_reddit_service_repo {
     clone_reddit_repo $1 theorangedit/reddit-service-$1
 }
 
-clone_reddit_repo reddit theorangedit/open-source-reddit
+clone_reddit_repo reddit subsapp/subist
 clone_reddit_repo i18n reddit/reddit-i18n
 clone_reddit_service_repo websockets
 clone_reddit_service_repo activity
